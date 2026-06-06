@@ -21,7 +21,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=DamnQuan&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@DamnQuan"><img src="https://wakatime.com/badge/user/d4bf3eac-3530-46ab-9ccb-6bbcf34492ed.svg" /></a>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/badge/user/d4bf3eac-3530-46ab-9ccb-6bbcf34492ed.svg" /></a>
 
   </div>
 
