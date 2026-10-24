@@ -287,7 +287,7 @@ QQ交流群：435624385
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/discussions.svg" alt="discussions" /></td>
   </tr>
 </table>
 

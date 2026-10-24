@@ -164,16 +164,8 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0
 
-      # 🏆 Achievements
-      - name: Compact display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+      # 🏆 Achievements 已移除：GitHub 已弃用 Projects Classic API，
+      # lowlighter/metrics 的 achievements 插件目前必然报错，等上游修复后再加回
 
       # 📰 Recent activity
       - name: Recent activity
