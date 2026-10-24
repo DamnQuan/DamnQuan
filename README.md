@@ -7,9 +7,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/developer.svg" height="225px" />
+    <img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/coding.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -27,9 +27,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
@@ -47,7 +47,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是quanquan。热爱编程、航空。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
@@ -129,12 +129,12 @@ No AI Coding Activity Tracked This Week
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/man_run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div>
@@ -146,13 +146,13 @@ No AI Coding Activity Tracked This Week
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<img align="left" width="150" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DamnQuan&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DamnQuan&theme=light&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=DamnQuan&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+<img align="right" width="150"  src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/right.png" />
 
 ## 🌟 核心项目
 ### 🌌 ISFP 云际模拟飞行连飞平台
@@ -167,7 +167,7 @@ QQ交流群：435624385
 ---
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics.svg" />
+<img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics.svg" />
 
 <!-- GitHub Activity Graph GitHub 活动图（github-readme-activity-graph.vercel.app 暂停服务，恢复后取消注释即可；等价信息见 metrics 的 isocalendar 全年日历）
 <table>
@@ -185,12 +185,12 @@ QQ交流群：435624385
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+<img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/mb.png" width="250" height="250" />
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
@@ -221,12 +221,12 @@ QQ交流群：435624385
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+<img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 
@@ -279,59 +279,59 @@ QQ交流群：435624385
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/html.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/cssgif.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/vscode.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/react.webp">
+<img height="95" width="95" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/vue.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/python.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/js.webp">
+<img height="100" width="100" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/github.webp">
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/githubgif.gif" />
 
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/stars.svg" alt="stars" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/discussions.svg" alt="discussions" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/discussions.svg" alt="discussions" /></td>
   </tr>
 </table>
 
@@ -339,6 +339,6 @@ QQ交流群：435624385
 <img width="100%" src="https://repobeats.axiom.co/api/embed/0be142442097b0b07961d6dc1b70468c4284fc83.svg" alt="Repobeats analytics image" />
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+<img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/assets/image/icon.png" />
 
 </div>
