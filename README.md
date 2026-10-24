@@ -21,7 +21,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=DamnQuan&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com"><img src="https://wakatime.com/badge/user/d4bf3eac-3530-46ab-9ccb-6bbcf34492ed.svg" /></a>
+    <a href="https://wakatime.com/@d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2"><img src="https://wakatime.com/badge/user/d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2.svg" alt="Total time coded" /></a>
 
   </div>
 
@@ -33,6 +33,11 @@
   </picture>
 
 </div>
+
+<!-- GitHub Roast（githubroast.dev 暂停服务，恢复后取消注释即可）
+[![GitHub Roast](https://githubroast.dev/api/card/DamnQuan)](https://githubroast.dev/u/DamnQuan)
+-->
+
 
 #  🙋 Hello
 
@@ -53,6 +58,32 @@
 
 <tr><td>
 
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+</td></tr>
+
+<tr><td>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</td></tr>
+
+</table>
+
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -60,6 +91,24 @@
 
 <!-- run 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+
+<!-- Joke 笑话 -->
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+  </picture>
+</div>
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DamnQuan&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=DamnQuan&theme=light&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=DamnQuan&theme=dark&hide_border=true" />
+</picture>
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
 ## 🌟 核心项目
 ### 🌌 ISFP 云际模拟飞行连飞平台
@@ -73,7 +122,10 @@ QQ交流群：435624385
 
 ---
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
+<!-- metrics 基础资料 -->
+<img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics.svg" />
+
+<!-- GitHub Activity Graph GitHub 活动图（github-readme-activity-graph.vercel.app 暂停服务，恢复后取消注释即可；等价信息见 metrics 的 isocalendar 全年日历）
 <table>
   <tr>
     <td>
@@ -84,6 +136,7 @@ QQ交流群：435624385
       </picture>
   </tr>
 </table>
+-->
 
 </div>
 
@@ -98,8 +151,30 @@ QQ交流群：435624385
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
   
+<!-- GitHub 奖杯🏆（github-profile-trophy.vercel.app 暂停服务，恢复后取消注释即可）
+<div><img src="https://github-profile-trophy.vercel.app/?username=DamnQuan&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+-->
 
+<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=DamnQuan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamnQuan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
+<!-- Wakatime Graph WakaTime 图表 -->
+<table>
+  <tr>
+    <td><img src="https://wakatime.com/share/@d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2/96c4cd88-329c-4e74-a1d4-6f2b6143ae93.svg" width="500" alt="Wakatime Coding Activity"/></td>
+    <td><img src="https://wakatime.com/share/@d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2/c901bdb8-5673-4a8c-9119-24adb44cef2a.svg" width="500" alt="Wakatime Languages"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://wakatime.com/share/@d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2/fbb31540-89d1-4295-a19a-a081e1d1c572.svg" width="500" alt="Wakatime Editors"/></td>
+    <td><img src="https://wakatime.com/share/@d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2/1f54f36f-a976-4e35-95ea-e13f1b2e6224.svg" width="500" alt="Wakatime Operating Systems"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://wakatime.com/share/@d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2/0cade16e-6e2a-43a6-8c1d-8cf279071c69.svg" width="500" alt="Wakatime Categories"/></td>
+  </tr>
+</table>
+
+</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
@@ -168,5 +243,58 @@ QQ交流群：435624385
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
+</div>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<!-- GitHub metrics 信息指标 -->
+<div align="center">
+
+<!-- just img 图片 -->
+<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+
+
+<!-- second form 第二个表格 -->
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/stars.svg" alt="stars" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/DamnQuan/DamnQuan/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
+  </tr>
+</table>
+
+<!-- Repobeats 动态分析图 -->
+<img width="100%" src="https://repobeats.axiom.co/api/embed/0be142442097b0b07961d6dc1b70468c4284fc83.svg" alt="Repobeats analytics image" />
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 
 </div>
