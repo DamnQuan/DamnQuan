@@ -106,48 +106,48 @@ Sunday                   95 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Markdown                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Other                    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-JSON                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Go                       3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.29 % 
+Markdown                 1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Other                    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+JSON                     1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 🔥 Editors: 
-ZCode                    4 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.40 % 
-VS Code                  4 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.27 % 
-OpenCode                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+ZCode                    4 hrs 58 mins       ████████████░░░░░░░░░░░░░   47.24 % 
+VS Code                  4 hrs 38 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
+OpenCode                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 
 💻 Operating System: 
-Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 13 mins (95.35%)
+⏱ AI Coding Time: 10 hrs 2 mins (95.24%)
 
-✍️ 5,538 lines written by AI, 74 lines written by hand (98.68% AI-written)
+✍️ 5,347 lines written by AI, 74 lines written by hand (98.63% AI-written)
 
-🔤 5,272,475 Input Tokens, 489,459 Output Tokens
+🔤 5,225,056 Input Tokens, 466,468 Output Tokens
 
-💵 $345.70 Estimated AI Cost This Week
+💵 $344.60 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 158 AI Prompts
+🧠 29 AI Sessions, 153 AI Prompts
 
-Vscode                   3,502 lines         ████████████████░░░░░░░░░   63.24 % 
-GLM                      2,036 lines         █████████░░░░░░░░░░░░░░░░   36.76 % 
+Vscode                   3,311 lines         ███████████████░░░░░░░░░░   61.92 % 
+GLM                      2,036 lines         ██████████░░░░░░░░░░░░░░░   38.08 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.68% of written lines came from AI
-📝 Concise Prompter — average 246 characters per prompt
+🤖 AI-Driven — 98.63% of written lines came from AI
+📝 Concise Prompter — average 244 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.34% of changed lines were hand-edited
+🚀 High AI Trust — 1.38% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 15:12:10 UTC
+ Last Updated on 30/10/2026 03:06:43 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
