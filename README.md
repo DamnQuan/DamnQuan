@@ -60,17 +60,8 @@
 
 ### 📊 WakaTime
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d9c72e40-0ed0-43d6-b9db-5312ab7bf6b2&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+<!-- 原 github-readme-stats 的 WakaTime 卡因公共实例不稳定（频繁 502/暂停）改用自己 metrics 生成的卡片 -->
+<img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/wakatime.svg" alt="WakaTime stats" />
 
 </td></tr>
 
@@ -345,22 +336,26 @@ QQ交流群：435624385
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/activity.svg" alt="activity" /></td>
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/stars.svg" alt="stars" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/discussions.svg" alt="discussions" /></td>
   </tr>
 </table>
+
+<!-- habits.charts 与 activity 卡片暂时隐藏：GitHub 平台已从 events API payload 中移除 commits 数组和 PR user 对象，
+     lowlighter/metrics 的这两个插件目前对所有人报错（adminlby 的同款卡片同样如此），等上游修复后取消注释即可，workflow 仍每日生成
+<tr>
+  <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+  <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/activity.svg" alt="activity" /></td>
+</tr>
+-->
 
 <!-- Repobeats 动态分析图 -->
 <img width="100%" src="https://repobeats.axiom.co/api/embed/0be142442097b0b07961d6dc1b70468c4284fc83.svg" alt="Repobeats analytics image" />
