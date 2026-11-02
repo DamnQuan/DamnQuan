@@ -178,13 +178,14 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
 
-      # ⏰ WakaTime
-      - name: WakaTime
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+      # ⏰ WakaTime 已停用：WakaTime 自 2026-10 起将 stats 类 API 端点限制为 OAuth 认证，
+      # API Key（含 Basic 头 / URL 参数两种形式）一律返回 403，插件暂无替代方案，等上游适配后恢复
+      # - name: WakaTime
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/wakatime.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_wakatime: yes
+      #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+      #     plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
