@@ -56,10 +56,6 @@
 
 </td></tr>
 
-<!-- 📊 WakaTime 卡片暂停显示：WakaTime 自 2026-10 起将 stats 类 API 端点限制为 OAuth 认证，
-     API Key（任何形式）均返回 403，metrics 生成的卡片随之报错。
-     头部徽章与 5 张分享图表为服务端渲染、不受影响。
-     等 lowlighter/metrics 或 anmol098/waka-readme-stats 适配 OAuth 后取消注释
 <tr><td>
 
 ### 📊 WakaTime
@@ -67,7 +63,6 @@
 <img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/wakatime.svg" alt="WakaTime stats" />
 
 </td></tr>
--->
 
 <tr><td>
 
