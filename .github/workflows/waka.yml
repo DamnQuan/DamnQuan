@@ -1,8 +1,10 @@
 name: Waka Readme
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  # 定时触发暂时禁用：WakaTime 于 10-31 起封禁了本账号的 API 访问（换新 Key 仍 403），
+  # 每日运行必然失败；已邮件申诉，解封后把 schedule 的注释去掉即可
+  # schedule:
+  #   - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches: ["master", "main"]
