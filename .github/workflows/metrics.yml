@@ -60,15 +60,15 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
 
-      # Stargazers
-      - name: Using chartist charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/stargazers.chartist.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
+      # Stargazers (disabled: GitHub page scrape broken upstream)
+      # - name: Using chartist charts
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/stargazers.chartist.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_stargazers: yes
+      #     plugin_stargazers_charts_type: chartist
 
       # Recently starred repositories
       - name: Recently starred
@@ -80,17 +80,17 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 10
 
-      # Coding habits and activity
-      - name: Recent activity charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          config_timezone: Asia/Shanghai
+      # Coding habits and activity (disabled: GitHub events API payload change breaks plugin upstream)
+      # - name: Recent activity charts
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/habits.charts.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_habits: yes
+      #     plugin_habits_facts: no
+      #     plugin_habits_charts: yes
+      #     config_timezone: Asia/Shanghai
 
       # Follow-up of issues and pull requests
       - name: Indepth analysis
@@ -145,26 +145,26 @@ jobs:
           plugin_discussions: yes
           plugin_discussions_categories_limit: 8
 
-      # Commit calendar
-      - name: Full history calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/calendar.full.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
+      # Commit calendar (disabled: GitHub page scrape broken upstream)
+      # - name: Full history calendar
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/calendar.full.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_calendar: yes
+      #     plugin_calendar_limit: 0
 
-      # Recent activity
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
+      # Recent activity (disabled: GitHub events API payload change breaks plugin upstream)
+      # - name: Recent activity
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: github-metrics/activity.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_activity: yes
+      #     plugin_activity_limit: 5
+      #     plugin_activity_days: 0
 
       # WakaTime
       - name: WakaTime

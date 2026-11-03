@@ -335,20 +335,22 @@ QQ交流群：435624385
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/people.followers.svg" alt="people.followers" /></td>
-    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/discussions.svg" alt="discussions" /></td>
+  </tr>
+  <!-- stargazers / calendar / habits / activity cards disabled upstream (GitHub API/page changes break those plugins); restore when fixed
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/activity.svg" alt="activity" /></td>
   </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/discussions.svg" alt="discussions" /></td>
-  </tr>
+  -->
 </table>
 
 <!-- Repobeats 动态分析图 -->
