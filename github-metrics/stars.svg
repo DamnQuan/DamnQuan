@@ -200,7 +200,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        14
+                                        15
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -431,7 +431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DamnQuan/Graphical-Web-Development-Tools</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一款运行在浏览器中的图形化 Web 开发 IDE，支持可视化拖拽与 Monaco 代码编辑器双模式双向同步。提供 40+ HTML 组件、属性/样式/布局编辑器、撤销重做、一键导出等功能。基于 React + TypeScript + Zustand 构建。</div>
@@ -484,7 +484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DamnQuan/Flight-Assistant</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✈️ 航空助手 — ICAO 机场代码查询 &amp; METAR 气象报文实时查询和翻译，基于 Flask + Vue 3 构建</div>
