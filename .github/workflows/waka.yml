@@ -1,8 +1,6 @@
 name: Waka Readme
 
 on:
-  # 已切换为 WakaTime OAuth 2.0 令牌认证（WakaTime 新政：stats 端点不再接受 API Key，
-  # 个人脚本可将 OAuth 令牌直接放在 api_key 参数中，waka-readme-stats 无需改代码）
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:

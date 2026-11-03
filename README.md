@@ -276,18 +276,14 @@ QQ交流群：435624385
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/activity.svg" alt="activity" /></td>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/discussions.svg" alt="discussions" /></td>
   </tr>
 </table>
-
-<!-- habits.charts 与 activity 卡片暂时隐藏：GitHub 平台已从 events API payload 中移除 commits 数组和 PR user 对象，
-     lowlighter/metrics 的这两个插件目前对所有人报错（adminlby 的同款卡片同样如此），等上游修复后取消注释即可，workflow 仍每日生成
-<tr>
-  <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  <td><img src="https://raw.githubusercontent.com/DamnQuan/DamnQuan/main/github-metrics/activity.svg" alt="activity" /></td>
-</tr>
--->
 
 <!-- Repobeats 动态分析图 -->
 <img width="100%" src="https://repobeats.axiom.co/api/embed/0be142442097b0b07961d6dc1b70468c4284fc83.svg" alt="Repobeats analytics image" />
