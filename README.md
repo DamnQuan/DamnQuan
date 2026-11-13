@@ -96,48 +96,48 @@ Sunday                   112 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Swift                    2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Other                    2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Markdown                 2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Python                   1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Vue                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Other                    2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Markdown                 2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Python                   1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Swift                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Vue                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 55 mins       ████████████████░░░░░░░░░   62.79 % 
-ZCode                    5 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.21 % 
+VS Code                  7 hrs 50 mins       ████████████████░░░░░░░░░   62.55 % 
+ZCode                    4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
 
 💻 Operating System: 
-Windows                  14 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 50 mins (97.28%)
+⏱ AI Coding Time: 12 hrs 11 mins (97.32%)
 
-✍️ 10,418 lines written by AI, 74 lines written by hand (99.29% AI-written)
+✍️ 9,775 lines written by AI, 12 lines written by hand (99.88% AI-written)
 
-🔤 20,428,189 Input Tokens, 1,271,242 Output Tokens
+🔤 13,060,618 Input Tokens, 1,152,058 Output Tokens
 
-💵 $1054.60 Estimated AI Cost This Week
+💵 $942.43 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 288 AI Prompts
+🧠 53 AI Sessions, 233 AI Prompts
 
-GLM                      4,485 lines         ███████████░░░░░░░░░░░░░░   43.05 % 
-ZCode                    4,194 lines         ██████████░░░░░░░░░░░░░░░   40.26 % 
-Vscode                   1,287 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-DeepSeek                 233 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-MiMo                     108 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+GLM                      4,255 lines         ███████████░░░░░░░░░░░░░░   43.53 % 
+ZCode                    4,181 lines         ███████████░░░░░░░░░░░░░░   42.77 % 
+Vscode                   1,212 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+MiMo                     87 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+K                        40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.29% of written lines came from AI
-📝 Concise Prompter — average 278 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.35% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📝 Concise Prompter — average 339 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/11/2026 06:58:17 UTC
+ Last Updated on 13/11/2026 06:21:50 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
